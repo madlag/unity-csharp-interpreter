@@ -1,7 +1,7 @@
 # unity-csharp-interpreter
-Show how to use the new Mono 4.5 backend to interpret code in a running Unity app.
+**Show how to use the new Mono 4.5 backend to interpret code in a running Unity app.**
 
-HOWTO
+**HOWTO**
 
 Modify the copy.sh file to suit your install, and run it : it will copy some dlls from Unity install to your Assets directory.
 This was tested only with Unity2019.1.0a9 but it should work with other versions that includes mono 4.5.
